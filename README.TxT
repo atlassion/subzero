@@ -22,6 +22,11 @@ was written by someone in C but I ported it to python and added
 some things. I also took some code from another patcher.
 This is my first python program. Thanks =] - socialfright
 
+V2:
+Added automatic binary detection
+Added offsets for windows
+support for sublime 4143
+IT MIGHT NOT WORK ON WINDOWS, if so add a issue or message me at socialfright@pm.me
 Credits -
 https://github.com/CodigoCristo/sublimepatch - C code
 https://gist.github.com/lugrus2000/1fc55158b87f94d799392a6dd1ac0ce2 - Offsets and Hex for patch
